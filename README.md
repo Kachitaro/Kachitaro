@@ -2,8 +2,8 @@
 - 👀 I’m interested in flutter and I think this is the language that will be used a lot in the future.
 - 🌱 I’m currently learning NodeJS and flutter.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- I'm pretty confident in most things so don't ask if I can. Ask me how long it takes to get it done instead 
+- 📫 Connect me: 0364789243
+- 🌱I'm pretty confident in most things so don't ask if I can. Ask me how long it takes to get it done instead 
 
 
 <!---
