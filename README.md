@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kachitaro - You can call John
+- 👋 Hi, I’m @Kachitaro - You can call me by John
 - 💞️ I’m looking to collaborate on training and course sales
 - 📫 Connect me: 0392011478 and anhtai.dev@gmail.com
